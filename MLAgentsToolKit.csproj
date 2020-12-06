@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{13FD686B-C368-D0EC-C96B-2D8C0C161AF9}</ProjectGuid>
+    <ProjectGuid>{E64B2119-8EB1-ACD6-B057-104AF4D9A789}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MLAgentsToolKit</AssemblyName>
@@ -345,29 +345,29 @@
  <Reference Include="UnityEditor.AppleTV.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1c1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="Unity.Burst.Unsafe">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
+ <Reference Include="System.IO.Abstractions">
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.dll</HintPath>
  </Reference>
  <Reference Include="System.IO.Abstractions.TestingHelpers">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
- </Reference>
- <Reference Include="Google.Protobuf">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/PackageCache/com.unity.barracuda@0.5.0-preview/Barracuda/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
- </Reference>
- <Reference Include="System.IO.Abstractions">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.dll</HintPath>
- </Reference>
- <Reference Include="System.IO.Compression.FileSystem">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
- </Reference>
- <Reference Include="System.Interactive.Async">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Assets/Karting/ML_Agents/Plugins/System.IO.Abstractions.TestingHelpers.dll</HintPath>
  </Reference>
  <Reference Include="Grpc.Core">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/Grpc.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Interactive.Async">
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Assets/Karting/ML_Agents/Plugins/ProtoBuffer/System.Interactive.Async.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.Protobuf">
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/PackageCache/com.unity.barracuda@0.5.0-preview/Barracuda/Plugins/ProtoBuffer/Google.Protobuf.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Burst.Unsafe">
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/PackageCache/com.unity.burst@1.1.1/Unity.Burst.Unsafe.dll</HintPath>
+ </Reference>
+ <Reference Include="System.IO.Compression.FileSystem">
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/PackageCache/com.unity.connect.share@1.2.0-preview.1/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.NRefactory">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1c1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -733,13 +733,13 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.14f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
  <Reference Include="Barracuda">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/ScriptAssemblies/Barracuda.dll</HintPath>
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/ScriptAssemblies/Barracuda.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/dengp/AppData/Local/Temp/553bcf379b2a00c40aad140a59022ec3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>E:/THU/Cources/FinalAssignment/ModifiedKartGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
